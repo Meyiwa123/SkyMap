@@ -1,6 +1,4 @@
 # SkyMap: A Distributed Consensus-Based Swarm Robotics System for Real-Time 3D Mapping and Object Detection
-
-# Swarm Robotics 3D Mapping System
 The goal of this project is to develop a swarm robotics system that can create a 3D map of an area through distributed consensus, using reinforcement learning and computer vision techniques.
 
 ## System Overview
